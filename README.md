@@ -21,7 +21,7 @@
 Inside the `backend` folder, create a `.env` file with the following content:
 
 ```env
-MONGODB_CONNECTION_STRING=mongodb+srv://Alex-sabaiydev:FK6vnWy2nmo6zD49@metube-db.hhkxa.mongodb.net/?retryWrites=true&w=majority&appName=metube-db
+MONGODB_CONNECTION_STRING=mongodb://localhost:27017/
   # Change if using an online URL
 
 # Authentication secrets
